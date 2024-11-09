@@ -16,3 +16,4 @@ Phrase to Acronym Example: Typing I miss you will automatically convert to IMU.
 This setup helps improve typing efficiency and communication clarity, especially for users familiar with common internet acronyms and abbreviations.
 
 GReat for parents to understand there kids and so they can fit in
+PLS be aware that some word are ("NOT SAFE FOR WORK") so you will have to go in and change or add words if you want. 
